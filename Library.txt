@@ -1,0 +1,65 @@
+Member
+M12345
+Bob
+The Great Gatsby, 2025-01-10
+1984, 2025-01-15
+
+Librarian
+L67890
+Clara
+senior
+War and Peace, 2025-01-08
+Pride and Prejudice, 2025-01-12
+Les Misérables, 2025-01-20
+
+Member
+M54321
+Alice
+To Kill a Mockingbird, 2025-01-09
+The Catcher in the Rye, 2025-01-18
+
+Member
+M11223
+David
+Brave New World, 2025-01-10
+Jane Eyre, 2025-01-15
+
+Librarian
+L98765
+Eve
+junior
+Moby Dick, 2025-01-05
+The Odyssey, 2025-01-11
+
+Librarian
+L22334
+Sophia
+assistant
+The Brothers Karamazov, 2025-01-07
+Anna Karenina, 2025-01-14
+
+Member
+M33445
+Emma
+Dracula, 2025-01-08
+The Hobbit, 2025-01-20
+
+Librarian
+L44556
+James
+trainee
+Great Expectations, 2025-01-05
+Crime and Punishment, 2025-01-19
+
+Member
+M55667
+Liam
+Wuthering Heights, 2025-01-12
+Frankenstein, 2025-01-18
+
+Member
+M66778
+Olivia
+The Divine Comedy, 2025-01-09
+The Iliad, 2025-01-16
+The Aeneid, 2025-01-22
